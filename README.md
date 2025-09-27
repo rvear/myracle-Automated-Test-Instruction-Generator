@@ -16,9 +16,4 @@ A Streamlit web app that combines object detection with GPT-3.5 to generate test
 - [Python](https://www.python.org/) — backend language.
 - [Torch](https://pytorch.org/) — for loading YOLOv5 model.
 
-## 📦 Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
